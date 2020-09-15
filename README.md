@@ -1,5 +1,5 @@
 ### Bem vindo, me chamo [Gabriel Rodrigues Amador](http://gabrielamador.000webhostapp.com/) 👋
-Nota: Última atualização em agosto/2020.
+Nota: Última atualização em setembro/2020.
 
 **Você pode me encontrar no [LinkeIn](https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182)**.
 <a href="https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182/">
@@ -23,7 +23,7 @@ Nota: Última atualização em agosto/2020.
 
 **Atualmente:**  
 
-- 😄 Desenvolvendo a plataforma [Proffy #NLW2](https://github.com/amadorsenai/Proffy-Next-Level-Week);
+- 😄 Desenvolvendo com Unity [LastBreath](https://github.com/amadorsenai/LastBreath-WarForRestoration);
 - ⚡ Aprimorando minhas capacidades em React Js e Native;
 - 🌱 Aprendendo NodeJs e Typescript;
 

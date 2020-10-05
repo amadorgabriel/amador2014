@@ -14,7 +14,7 @@ Nota: Última atualização em setembro/2020.
 <br />
 
 **Resumo:**
-- Idade: 16 anos;
+- Idade: 17 anos;
 - Desenvolvedor motivado pela tecnologia, busco aprimorar meus conhecimentos com o objetivo de alçançar uma base sólida de aprendizado
 - Cursando Técnico em Multimídia pelo SENAI;
 - Estudante com formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAI;

@@ -23,9 +23,9 @@ Nota: Última atualização em outubro/2020.
 
 **Atualmente:**  
 
-- 😄 Desenvolvendo a plataforma [Happy-Orphanages](https://github.com/amadorsenai/Happy-Orphanages);
+- 😄 Desenvolvendo o app cross plataforms [Xamarin-Gmail-UIClone](https://github.com/amadorsenai/Xamarin-Forms-Gmail-UI-Clone);
 - ⚡ Aprimorando minhas capacidades em React Js e Native;
-- 🌱 Aprendendo NodeJs e Typescript;
+- 🌱 Aprendendo Xamarin Forms;
 
 
 <br />

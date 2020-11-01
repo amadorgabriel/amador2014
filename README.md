@@ -1,5 +1,5 @@
 ### Bem vindo, me chamo [Gabriel Rodrigues Amador](http://gabrielamador.000webhostapp.com/) 👋
-Nota: Última atualização em outubro/2020.
+Nota: Última atualização em novenbro/2020.
 
 **Você pode me encontrar no [LinkeIn](https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182)**.
 <a href="https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182/">
@@ -23,7 +23,7 @@ Nota: Última atualização em outubro/2020.
 
 **Atualmente:**  
 
-- 😄 Desenvolvendo o app cross plataforms [Xamarin-Gmail-UIClone](https://github.com/amadorsenai/Xamarin-Forms-Gmail-UI-Clone);
+- 😄 Desenvolvendo o interface cross plataforms [Xamarin-Gmail-UIClone](https://github.com/amadorsenai/Xamarin-Forms-Gmail-UI-Clone);
 - ⚡ Aprimorando minhas capacidades em React Js e Native;
 - 🌱 Aprendendo Xamarin Forms;
 
@@ -49,8 +49,9 @@ Nota: Última atualização em outubro/2020.
 </a>
 -->
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadorsenai&layout=compact&theme=radical" />
 </a>
-
+-->
 

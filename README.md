@@ -23,8 +23,8 @@ Nota: Última atualização em novenbro/2020.
 
 **Atualmente:**  
 
-- 😄 Desenvolvendo o interface cross plataforms [Xamarin-Gmail-UIClone](https://github.com/amadorsenai/Xamarin-Forms-Gmail-UI-Clone);
-- ⚡ Aprimorando minhas capacidades em React Js e Native;
+- 😄 Desenvolvendo aplicação cross plataform Food-Ordering;
+- ⚡ Aprimorando minhas capacidades em Design e Interfaces;
 - 🌱 Aprendendo Xamarin Forms;
 
 

@@ -23,7 +23,7 @@ Nota: Última atualização em novenbro/2020.
 
 **Atualmente:**  
 
-- 😄 Desenvolvendo aplicação cross plataform Food-Ordering;
+- 😄 Desenvolvendo aplicação cross plataform [**WeatherApp**](https://github.com/amadorsenai/Xamarin-WeatherApp);
 - ⚡ Aprimorando minhas capacidades em Design e Interfaces;
 - 🌱 Aprendendo Xamarin Forms;
 
@@ -35,11 +35,14 @@ Nota: Última atualização em novenbro/2020.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png"></code>
-<code><img height="20" src="https://icon-library.com/images/database-icon-png/database-icon-png-15.jpg"></code>
+<code><img height="20" src="https://img.favpng.com/25/1/22/microsoft-sql-server-database-microsoft-corporation-application-software-png-favpng-vTJVuHCzMsyVhv07AjTXMqwh7.jpg"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://lh3.googleusercontent.com/proxy/zwEi1yI6pIh3kCsj6B8IWgABkIkmQs0amgr5seOn3zTDcgRQB5fv9i1ROlaBIF1ZKZhqyPxrbmwObcuzpRbbEnE4yQ"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
 
 <br />
 

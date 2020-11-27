@@ -23,7 +23,7 @@ Nota: Última atualização em novembro/2020.
 
 **Atualmente:**  
 
-- 😄 Desenvolvendo ecommerce com C#, SQLServer, Xamarin, HTML/CSS;
+- 😄 Desenvolvendo plataforma [**Ecommerce**](https://github.com/amadorsenai/Ecommerce-Plataform) com C#, SQLServer, Xamarin, HTML/CSS;
 - ⚡ Aprimorando minhas capacidades em Design e Interfaces;
 - 🌱 Aprendendo Xamarin Forms;
 

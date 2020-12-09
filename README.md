@@ -1,5 +1,5 @@
 ### Bem vindo, me chamo [Gabriel Rodrigues Amador](http://gabrielamador.000webhostapp.com/) 👋
-Nota: Última atualização em novembro/2020.
+Nota: Última atualização em dezembro/2020.
 
 **Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182)**.
 <a href="https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182/">
@@ -9,6 +9,11 @@ Nota: Última atualização em novembro/2020.
 **Veja os compartilhamentos dos meus [projetos](https://br.pinterest.com/gabrielramador2014)**.
 <a href="https://br.pinterest.com/gabrielramador2014/">
   <img align="left" alt="Gabriel Amador" width="21px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/pinterest-512.png" />
+</a>
+
+**Confira meus estudos recentes através do [Medium](https://gabriel-amador.medium.com/)**.
+<a href="https://gabriel-amador.medium.com/">
+  <img align="left" alt="Gabriel Amador" width="21px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
 </a>
 
 <br />
@@ -23,7 +28,7 @@ Nota: Última atualização em novembro/2020.
 
 **Atualmente:**  
 
-- 😄 Desenvolvendo plataforma [**Ecommerce**](https://github.com/amadorsenai/Ecommerce-Plataform) com C#, SQLServer, Xamarin, HTML/CSS;
+- 😄 Desenvolvendo ecommerce [**DevStore**](https://github.com/amadorsenai/Ecommerce-Plataform) com C#, SQLServer, Xamarin, HTML/CSS;
 - ⚡ Aprimorando minhas capacidades em Design e Interfaces;
 - 🌱 Aprendendo Xamarin Forms;
 

@@ -1,4 +1,4 @@
-### Bem vindo, me chamo [Gabriel Rodrigues Amador](http://gabrielamador.000webhostapp.com/) 👋
+### Bem vindo, me chamo [Gabriel Rodrigues Amador](https://amador2014.github.io/) 👋
 Nota: Última atualização em dezembro/2020.
 
 **Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182)**.

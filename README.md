@@ -30,7 +30,7 @@ Nota: Última atualização em Janeiro/2021.
 
 - 😄 Desenvolvendo ecommerce [**DevStore**](https://github.com/amadorsenai/Ecommerce-Plataform) com C#, SQLServer, ReactNative, React;
 - ⚡ Aprimorando minhas capacidades em Design e Interfaces;
-- 🌱 Estudando Styled-Components;
+- 🌱 Estudando Styled-Components e NextJs;
 
 
 <br />

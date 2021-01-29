@@ -20,7 +20,7 @@ Nota: Última atualização em Janeiro/2021.
 
 **Resumo:**
 - Idade: 17 anos;
-- Desenvolvedor FrontEnd motivado pela tecnologia, busco aprimorar meus conhecimentos com o objetivo de alçançar uma base sólida de aprendizado
+- Desenvolvedor FrontEnd motivado pela tecnologia, busco aprimorar meus conhecimentos com o objetivo de alçançar uma base sólida de aprendizado;
 - Cursando Técnico em Multimídia pelo SENAI;
 - Estudante com formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAI;
 

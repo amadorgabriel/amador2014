@@ -11,10 +11,11 @@ Nota: Última atualização em Fevereiro/2021.
   <img align="left" alt="Gabriel Amador" width="21px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/pinterest-512.png" />
 </a>
 
+<!--
 **Confira meus estudos recentes através do [Medium](https://gabriel-amador.medium.com/)**.
 <a href="https://gabriel-amador.medium.com/">
   <img align="left" alt="Gabriel Amador" width="21px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
-</a>
+</a> -->
 
 <br />
 

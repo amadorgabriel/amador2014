@@ -1,5 +1,5 @@
 ### Bem vindo, me chamo [Gabriel Rodrigues Amador](https://amador2014.github.io/) 👋
-Nota: Última atualização em Março/2021.
+Nota: Última atualização em Abril/2021.
 
 **Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182)**.
 <a href="https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182/">
@@ -23,15 +23,15 @@ Nota: Última atualização em Março/2021.
 - Idade: 17 anos;
 - Desenvolvedor FrontEnd motivado pela tecnologia, busco aprimorar meus conhecimentos com o objetivo de alçançar uma base sólida de aprendizado;
 - Cursando Técnico em Multimídia pelo SENAI;
-- Estudante com formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAI;
+- Formação técnica em Análise e Desenvolvimento de Sistemas / SENAI;
 
 <br />
 
 **Atualmente:**  
 
 <!--- 😄 Desenvolvendo ecommerce [**DevStore**](https://github.com/amadorsenai/Ecommerce-Plataform) com C#, SQLServer, ReactNative, React; -->
-- ⚡ Aprimorando minhas capacidades em Design e Interfaces;
-- 🌱 Estudando Styled-Components, NextJs e Typescript;
+- ⚡ Desenvolvendo um [**Blog**](https://github.com/amador2014/Blog-Next-Js) com Next e Prismic CMS;
+- 🌱 Estudando NextJs e React hooks;
 
 
 <br />

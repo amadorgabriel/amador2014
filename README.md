@@ -1,5 +1,4 @@
 ### Bem vindo, me chamo [Gabriel Rodrigues Amador](https://amador2014.github.io/) 👋
-Nota: Última atualização em Abril/2021.
 
 **Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182)**.
 <a href="https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182/">

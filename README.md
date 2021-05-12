@@ -1,4 +1,7 @@
 ### Bem vindo, me chamo [Gabriel Rodrigues Amador](https://amador2014.github.io/) 👋
+Sou um desenvolvedor frontend e levo comigo muito entusiasmo, além do desenvolvimento amo tamém criar e inovar nas minhas próprias interfaces de aplicações.
+
+<br />
 
 **Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182)**.
 <a href="https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182/">
@@ -19,18 +22,17 @@
 <br />
 
 **Resumo:**
-- Idade: 17 anos;
-- Desenvolvedor FrontEnd motivado pela tecnologia, busco aprimorar meus conhecimentos com o objetivo de alçançar uma base sólida de aprendizado;
-- Cursando Técnico em Multimídia pelo SENAI;
-- Formação técnica em Análise e Desenvolvimento de Sistemas / SENAI;
+- ⚡ Idade: 17 anos;
+- 🌱 Cursando técnico em Multimídia pelo SENAI;
+- 🎯 Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAI;
 
 <br />
 
-**Atualmente:**  
+**Quer me conhecer mais?**  
 
-<!--- 😄 Desenvolvendo ecommerce [**DevStore**](https://github.com/amadorsenai/Ecommerce-Plataform) com C#, SQLServer, ReactNative, React; -->
-- ⚡ Desenvolvendo um [**Blog**](https://github.com/amador2014/Blog-Next-Js) com Next e Prismic CMS;
-- 🌱 Estudando NextJs e React hooks;
+Sou também um estudante e eterno aprendiz, nos últimos meses tenho consumindo diversos conteúdos e aprendido com eles. Tenho também colocado em prática meus conhecimentos e procurado compartilhá-los através das mídias sociais, dessa forma visualizo todo o meu progresso. 
+
+O que eu quero é aprender, conhecer como o mundo funciona, me apropriar cada vez sobre as coisas e suas razões de serem. Sou extremamente social, gosto de conversar, interagir e saber mais dos outros, tenho consciência que necessito do próximo e percebi que conversar com outras pessoas é algo recompensador em todos aspectos.
 
 
 <br />

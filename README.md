@@ -23,7 +23,7 @@ Sou um desenvolvedor frontend e levo comigo muito entusiasmo, além do desenvolv
 
 **Resumo:**
 - ⚡ Idade: 17 anos;
-- 🌱 Cursando técnico em Multimídia pelo SENAI;
+- 🌱 Formação técnica em Multimídia pelo SENAI;
 - 🎯 Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAI;
 
 <br />

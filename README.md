@@ -4,7 +4,7 @@ Sou um desenvolvedor frontend e levo comigo muito entusiasmo, além do desenvolv
 <br />
 
 Quando quiser, você pode me encontrar pelo **[LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182)**.
-<a href="https://www.linkedin.com/in/gabriel-rodrigues-amador-b70629182/">
+<a href="https://www.linkedin.com/in/gabriel-rodrigues-amador/">
   <img align="left" alt="Gabriel Amador" width="21px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-160-461814.png" />
 </a>
 
